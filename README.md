@@ -160,7 +160,7 @@ available : true
 
 | 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 📞 Phone |
 |----------|-------------|--------------|----------|
-| [bhumilparate944@gmail.com](mailto:bhumilparate944@gmail.com) | [linkedin.com/in/bhumilparate](https://linkedin.com) | [bhumilparate.dev](https://portfolio.com) | +1 (382) 885-3109 |
+| [bhumilparate944@gmail.com](mailto:bhumilparate944@gmail.com) | [linkedin.com/in/bhumilparate](https://linkedin.com) | [bhumilparate.me](https://bhumilparate.me) | +1 (382) 885-3109 |
 
 </div>
 
